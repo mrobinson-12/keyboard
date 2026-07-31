@@ -42,7 +42,7 @@ keymap = [
         [
             "LShift", "Z", "X", "C", "V", "B", "N", "M", ",",
             ".", "/", "RShift", "Up",
-            "_", "_", "_"
+            "_", "_", "_", "_"
         ],
         [
             "LCtrl", "LAlt", "LGui", "Space", "RGui", "RAlt",
